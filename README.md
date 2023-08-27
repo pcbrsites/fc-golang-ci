@@ -8,6 +8,8 @@ O objetivo é publicar uma imagem no Docker Hub que, ao ser executada, exibirá 
 
 ## 🏠 Executar
 
+> https://hub.docker.com/r/pcbrsites/fullcycle
+
 Docker pull
 
 ```bash
